@@ -1,0 +1,14 @@
+debug/checkout.o
+debug/home.o
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/reservation.o
+debug/ses.o
+debug/qrc_img.o
+debug/moc_checkout.o
+debug/moc_home.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_reservation.o
+debug/moc_ses.o

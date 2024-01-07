@@ -1,0 +1,14 @@
+release/checkout.o
+release/home.o
+release/login.o
+release/main.o
+release/mainwindow.o
+release/reservation.o
+release/ses.o
+release/qrc_img.o
+release/moc_checkout.o
+release/moc_home.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_reservation.o
+release/moc_ses.o
